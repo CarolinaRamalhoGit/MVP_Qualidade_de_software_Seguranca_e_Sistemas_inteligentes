@@ -67,6 +67,8 @@ Para assegurar que o modelo embarcado atenda aos requisitos estabelecidos (Acur�
 (env)$ streamlit run interface.py
 ```
 
+2. Abra o [http://localhost:8501](http://localhost:8501/) no navegador para acessar o _front-end_.
+
 ## 4. Considerações
 
 Por se tratar de um MVP, algumas funcionalidades, não foram priorizadas para o desenvolvimento, tais como:
