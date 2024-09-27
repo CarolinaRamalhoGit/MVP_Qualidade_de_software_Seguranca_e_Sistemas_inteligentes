@@ -1,0 +1,8 @@
+Flask
+flask-openapi3
+flask_cors
+pydantic
+scikit-learn==1.3.2
+numpy
+pytest
+pandas
