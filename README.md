@@ -75,4 +75,6 @@ Por se tratar de um MVP, algumas funcionalidades, não foram priorizadas para o 
 
 Ressalta-se, ainda, que no Relatório do Modelo de _Machine Learning_, também foram apontadas sugestões de possíveis melhorias ao modelo de predição. 
 
+Por fim, cabe destacar que em um cenário real, a manipulação de dados sensíveis, como informações médicas, exigiria a aplicação de técnicas de segurança, como criptografia, controle de acesso e, em especial, a anonimização de dados, para proteger a privacidade dos indivíduos.
+
 
